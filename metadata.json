@@ -1,0 +1,6 @@
+{
+  "name": "MITS Gwalior Institute Management System",
+  "description": "Institute webstructure management dashboard with real-time analytics for students and staff, integrated attendance tracking, and automated announcements for MITS Gwalior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
